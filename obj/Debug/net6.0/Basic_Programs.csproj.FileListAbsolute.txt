@@ -1,0 +1,15 @@
+E:\BRIDGELABZ\Basic_Programs\bin\Debug\net6.0\Basic_Programs.exe
+E:\BRIDGELABZ\Basic_Programs\bin\Debug\net6.0\Basic_Programs.deps.json
+E:\BRIDGELABZ\Basic_Programs\bin\Debug\net6.0\Basic_Programs.runtimeconfig.json
+E:\BRIDGELABZ\Basic_Programs\bin\Debug\net6.0\Basic_Programs.dll
+E:\BRIDGELABZ\Basic_Programs\bin\Debug\net6.0\Basic_Programs.pdb
+E:\BRIDGELABZ\Basic_Programs\obj\Debug\net6.0\Basic_Programs.csproj.AssemblyReference.cache
+E:\BRIDGELABZ\Basic_Programs\obj\Debug\net6.0\Basic_Programs.GeneratedMSBuildEditorConfig.editorconfig
+E:\BRIDGELABZ\Basic_Programs\obj\Debug\net6.0\Basic_Programs.AssemblyInfoInputs.cache
+E:\BRIDGELABZ\Basic_Programs\obj\Debug\net6.0\Basic_Programs.AssemblyInfo.cs
+E:\BRIDGELABZ\Basic_Programs\obj\Debug\net6.0\Basic_Programs.csproj.CoreCompileInputs.cache
+E:\BRIDGELABZ\Basic_Programs\obj\Debug\net6.0\Basic_Programs.dll
+E:\BRIDGELABZ\Basic_Programs\obj\Debug\net6.0\refint\Basic_Programs.dll
+E:\BRIDGELABZ\Basic_Programs\obj\Debug\net6.0\Basic_Programs.pdb
+E:\BRIDGELABZ\Basic_Programs\obj\Debug\net6.0\Basic_Programs.genruntimeconfig.cache
+E:\BRIDGELABZ\Basic_Programs\obj\Debug\net6.0\ref\Basic_Programs.dll
