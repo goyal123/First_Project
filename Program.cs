@@ -10,6 +10,7 @@
             num = Convert.ToInt32(Console.ReadLine());
             reverse_number=Reverse_Number.Reverse(num);
             Console.WriteLine("Reversed Number = {0} ",reverse_number);
+            Palindrome.Palindrome_check(reverse_number, num);
 
 
         }
